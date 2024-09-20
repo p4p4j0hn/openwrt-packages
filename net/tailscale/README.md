@@ -1,14 +1,6 @@
 # Tailscale
 This readme should help you with tailscale client setup.
 
-## Install
-There are two packages related to tailscale. Tailscaled (daemon which has to run every time you want to be connected to VPN) and tailscale (package with a utility which is necessary for registering device).
-
-To install them run
-```
-opkg install tailscale tailscaled
-```
-
 ## First setup
 
 First, enable and run daemon
